@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏫 Navy Children School Website
 
 This is a **fully responsive** and **dynamic** school website built using **React, React Router, and Tailwind CSS**.  
@@ -63,7 +63,10 @@ cd School
  │   ├── index.css
  ├── package.json
  ├── README.md
-=======
+
 # College-Website
 Carbon Institute of Paramedical Science
->>>>>>> 19d91aa74ca1267dcd76fbefefbf140e157d8285
+19d91aa74ca1267dcd76fbefefbf140e157d8285
+# College-Website
+Carbon Institute of Paramedical Science
+19d91aa74ca1267dcd76fbefefbf140e157d8285
