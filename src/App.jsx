@@ -30,7 +30,7 @@ const App = () => {
             <Navbar />
             <HeroSection />
             <Routes>
-              <Route path="/" element={<Home />} />
+              <Route exact path="/" element={<Home />} />
               <Route path="/about" element={<About />} />
               <Route path="/student-corner" element={<StudentCorner />} />
               <Route path="/admission" element={<Admission />} />
